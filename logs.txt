@@ -1,0 +1,101 @@
+MASTER BRANCH
+commit de844a1e895ea60d7d9e166d1726394144a8ada5 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: MarkoNocik <markonocic@hotail.com>
+Date:   Fri Apr 12 15:23:53 2024 +0200
+
+    Call method makeBigStringFrom Conflict solved
+
+commit 3fbee34c2a04b1e2db254447e72e26f369e91b0b
+Author: MarkoNocik <markonocic@hotail.com>
+Date:   Fri Apr 12 15:15:18 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 494a7fcf5bbba58cc83535fb8abcaba5537c1ace (origin/bug1, bug1)
+Author: MarkoNocik <markonocic@hotail.com>
+Date:   Fri Apr 12 15:21:32 2024 +0200
+
+    Call method filterOddLengthStrings
+
+commit 4cc98db35c2f4ca740f2fb66e6f095e80ce252b1
+Author: MarkoNocik <markonocic@hotail.com>
+Date:   Fri Apr 12 15:14:20 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit b76bc24331be67e60ed9d1d481efac350c8b2e98
+Author: MarkoNocik <markonocic@hotail.com>
+Date:   Fri Apr 12 15:09:36 2024 +0200
+
+    Add starter code
+
+commit 5317f4a6e8c4bcc3acb85b3fa62ebe105d71f71e
+Author: MarkoNocik <markonocic@hotail.com>
+Date:   Fri Apr 12 15:06:24 2024 +0200
+
+    Initial commit
+
+
+BUG1 BRANCH:
+commit 494a7fcf5bbba58cc83535fb8abcaba5537c1ace (HEAD -> bug1, origin/bug1)
+Author: MarkoNocik <markonocic@hotail.com>
+Date:   Fri Apr 12 15:21:32 2024 +0200
+
+    Call method filterOddLengthStrings
+
+commit 4cc98db35c2f4ca740f2fb66e6f095e80ce252b1
+Author: MarkoNocik <markonocic@hotail.com>
+Date:   Fri Apr 12 15:14:20 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit b76bc24331be67e60ed9d1d481efac350c8b2e98
+Author: MarkoNocik <markonocic@hotail.com>
+Date:   Fri Apr 12 15:09:36 2024 +0200
+
+    Add starter code
+
+commit 5317f4a6e8c4bcc3acb85b3fa62ebe105d71f71e
+Author: MarkoNocik <markonocic@hotail.com>
+Date:   Fri Apr 12 15:06:24 2024 +0200
+
+    Initial commit
+
+
+
+BUG2 BRANCH:
+commit de844a1e895ea60d7d9e166d1726394144a8ada5 (HEAD -> bug2, origin/master, origin/bug2, master)
+Author: MarkoNocik <markonocic@hotail.com>
+Date:   Fri Apr 12 15:23:53 2024 +0200
+
+    Call method makeBigStringFrom Conflict solved
+
+commit 3fbee34c2a04b1e2db254447e72e26f369e91b0b
+Author: MarkoNocik <markonocic@hotail.com>
+Date:   Fri Apr 12 15:15:18 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 494a7fcf5bbba58cc83535fb8abcaba5537c1ace (origin/bug1, bug1)
+Author: MarkoNocik <markonocic@hotail.com>
+Date:   Fri Apr 12 15:21:32 2024 +0200
+
+    Call method filterOddLengthStrings
+
+commit 4cc98db35c2f4ca740f2fb66e6f095e80ce252b1
+Author: MarkoNocik <markonocic@hotail.com>
+Date:   Fri Apr 12 15:14:20 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit b76bc24331be67e60ed9d1d481efac350c8b2e98
+Author: MarkoNocik <markonocic@hotail.com>
+Date:   Fri Apr 12 15:09:36 2024 +0200
+
+    Add starter code
+
+commit 5317f4a6e8c4bcc3acb85b3fa62ebe105d71f71e
+Author: MarkoNocik <markonocic@hotail.com>
+Date:   Fri Apr 12 15:06:24 2024 +0200
+
+    Initial commit
